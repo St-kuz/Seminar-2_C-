@@ -36,7 +36,7 @@ int max = 1000;
 int min = max / 10 - 1;
 int num1 = 1;
 
-if (Math.Abs(number) < 100)
+if (Math.Abs(number1) < 100)
     {
         Console.Write("Третьей цифры нет");
     }
